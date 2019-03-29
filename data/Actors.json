@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"hero1-1fight","characterIndex":0,"characterName":"hero1-1walk","classId":5,"equips":[9,0,5,3],"faceIndex":0,"faceName":"hero1-1","traits":[],"initialLevel":1,"maxLevel":50,"name":"理伊","nickname":"","note":"","profile":"游戏的主角"},
+{"id":2,"battlerName":"qmzm1-1f","characterIndex":0,"characterName":"qmzm1-1","classId":4,"equips":[14,1,2,3],"faceIndex":0,"faceName":"qmzm1-1","traits":[],"initialLevel":1,"maxLevel":50,"name":"萌萌","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"princess","characterIndex":0,"characterName":"princess","classId":2,"equips":[15,0,2,3],"faceIndex":0,"faceName":"princess","traits":[],"initialLevel":15,"maxLevel":30,"name":"塞其娅","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":6,"characterName":"Actor1","classId":4,"equips":[4,0,2,3],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""}
+]
